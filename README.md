@@ -6,7 +6,7 @@ I have modified the script to remove randomly generated parts to the message. Th
 
 Please see datestrip.sh which will strip the dates from any line delimted syslog messages which can then be used with this script.
 
-Please see examplelinux.log for supported format and strippedlinux.log for the stripped output from the script.
+Please see **examplelinux.log** for supported format and **strippedlinux.log** for the stripped output from the script.
 
 This script is intended to forward syslog messages to a SIEM for testing purposes.
 
