@@ -1,2 +1,2 @@
-# sysloggenerator
+# Syslog Generator
 Syslog Generator
